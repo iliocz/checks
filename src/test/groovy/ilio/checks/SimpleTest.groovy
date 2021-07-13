@@ -20,6 +20,6 @@ class SimpleTest extends Specification {
         where:
         a || RESULT
         1 || 1
-        2 || 2
+        2 || 1
     }
 }
