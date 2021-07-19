@@ -21,5 +21,6 @@ class SimpleTest extends Specification {
         a || RESULT
         1 || 1
         2 || 2
+        3 || 3
     }
 }
